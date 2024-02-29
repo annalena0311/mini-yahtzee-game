@@ -1,0 +1,9 @@
+export const PRIMARY_ONE = "#638889";
+export const PRIMARY_TWO = "#9DBC98";
+export const BACKGROUND_COLOR = "#F9EFDB";
+export const BORDER_COLOR = "#5e7a59";
+export const TEXT_ON_DARK = "#FEFEFE";
+export const ICONS = "#272b2b";
+export const GREEN_BACKGROUND = "#e0c591";
+export const SELECTED = "#080808";
+export const DICES = "#b59a66";
