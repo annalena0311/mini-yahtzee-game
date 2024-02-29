@@ -157,8 +157,6 @@ export default Gameboard = ({route}) => {
             setNbrOfThrowsLeft(NBR_OF_THROWS);
             setStatus("You have to throw dices first");
             undoSelectedDices();
-
-
         } else if (!gameEndStatus) {
             setStatus("You have already selected points for " + (i+1));
         }
