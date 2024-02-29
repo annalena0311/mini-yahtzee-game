@@ -27,7 +27,7 @@ export default StyleSheet.create({
     color: TEXT_ON_DARK,
     fontWeight: 'bold',
     flex: 1,
-    fontSize: moderateScale(30),
+    fontSize: moderateScale(25),
     textAlign: 'center',
     marginVertical: verticalScale(10),
     marginHorizontal: horizontalScale(10)

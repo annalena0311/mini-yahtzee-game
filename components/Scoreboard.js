@@ -53,7 +53,7 @@ export default Scoreboard = ({navigation}) => {
             <View style={styles.centerContent}>
                 <MaterialCommunityIcons 
                     name="medal"
-                    size={moderateScale(90)}
+                    size={moderateScale(75)}
                     color={ICONS}
                 />
                 <Text style={styles.rulesTitle}>Top Three</Text>

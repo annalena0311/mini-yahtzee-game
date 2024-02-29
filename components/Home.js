@@ -33,7 +33,7 @@ export default Home = ({navigation}) => {
             <View style={[styles.container, styles.centerContent]}>
                 <MaterialCommunityIcons 
                     name={"information"}
-                    size={moderateScale(90)}
+                    size={moderateScale(75)}
                     style={styles.icon}
                     color={ICONS}
                 />
