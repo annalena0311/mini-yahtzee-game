@@ -95,7 +95,7 @@ export default Gameboard = ({route}) => {
                     <MaterialCommunityIcons 
                         name={board[dice]}
                         key={"dice" + dice}
-                        size={moderateScale(60)}
+                        size={moderateScale(50)}
                         color={getDiceColor(dice)}
                     />
                 </Pressable>
@@ -115,7 +115,7 @@ export default Gameboard = ({route}) => {
                     <MaterialCommunityIcons 
                         name={"numeric-" + (i + 1) + "-circle"}
                         key={"dicePoint" + i}
-                        size={moderateScale(45)}
+                        size={moderateScale(35)}
                         color={getDicePointColor(i)}
                     />
 
